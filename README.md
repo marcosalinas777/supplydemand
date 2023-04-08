@@ -56,5 +56,17 @@ print("Elasticity of demand with respect to the number of active drivers per hou
 
 ![image](https://user-images.githubusercontent.com/95108103/230729070-ecbacadf-5428-4273-9435-b56e31d22094.png)
 
+# It signifies a positive relationship between the demand for rides and the number of active drivers per hour.  Specifically it means that a 1% increase in the number of active drivers per hour would lead to a 0.82% decrease in demand for rides.
+<br>
+<br>
+#This level of elasticity suggest that the demand for rides is somewhat senstitive to changes in the number of active drivers per hour
+<br>
+<br>
+#Now let's add a new column in the dataset by calculating the supply ratio:
+#calculate the supply ratio for each level of driver activity
+data["Supply Ratio"]=data["Rides Completed"]/data["Drivers Active Per Hour"]
+print(data.head())
+![image](https://user-images.githubusercontent.com/95108103/230731731-d83966f1-6410-47a6-8f79-e9d363186c26.png)
+
 
 
