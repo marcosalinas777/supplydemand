@@ -41,7 +41,9 @@ figure.show()
 
 #so there is a constant relationship between the number of drivers per hour and the number of riders active per hour, it means that for every X  drivers there is a consistent and predictable Y number of riders
 <br>
+<br>
 #Now let's calculate elasticity of demand concerning the number of active drivers per hour
+<br>
 <br>
 avg_demand=data["Riders Active Per Hour"].mean()
 <br>
