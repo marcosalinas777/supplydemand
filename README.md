@@ -1,4 +1,4 @@
-Demand and Supply Analycis is a valuable concept used to see the relatioship between the quantity demanded and the quantity supplied.  Demand and Supply analysis means analyzing the relationship between the quantity demanded and the quantity supplied.  This helps businesses understand the factors influencing consumer demand to maximize profits.
+Demand and Supply Analysis is a valuable concept used to see the relatioship between the quantity demanded and the quantity supplied.  Demand and Supply analysis means analyzing the relationship between the quantity demanded and the quantity supplied.  This helps businesses understand the factors influencing consumer demand to maximize profits.
 <br>
 <br>
 The data set riders.csv has information on demand for cab rides at a given time, the availability at a given time and the rides completed at a given time.
