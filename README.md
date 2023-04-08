@@ -28,7 +28,8 @@ print(data.isnull().sum())
 
 data=data.dropna()
 
-#Now lets analyze the relationship between the number of drivers active per hour and the number of riders activer per hour
+#Now lets analyze the relationship between the number of drivers active per hour and the number of riders activer per hour 
+<br>
 demand=data["Riders Active Per Hour"]
 supply=data["Drivers Active Per Hour"]
 
