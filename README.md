@@ -4,7 +4,8 @@ Demand and Supply Analycis is a valuable concept used to see the relatioship bet
 The data set riders.csv has information on demand for cab rides at a given time, the availability at a given time and the rides completed at a given time.
 <br>
 <br>
-#import necessary pythn libraries and the dataset
+import necessary pythn libraries and the dataset
+<br>
 import pandas as pd
 import plotly.express as px
 import plotly.graph_objects as go
