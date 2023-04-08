@@ -69,6 +69,22 @@ print(data.head())
 
 ![image](https://user-images.githubusercontent.com/95108103/230731778-8bf673af-faef-4444-98d3-5b224b7bec2a.png)
 
+#Now let's visualize the supply ratio:
+<br>
+fig=go.Figure()
+fig.add_trace(go.Scatter(x=data["Drivers Active Per Hour"], y=data["Supply Ratio"], mode="markers"))
+
+fig.update_layout(
+    title="Supply Ratio vs Driver Activity",
+    xaxis_title="Driver Activity(Drivers Activity Per Hour)",
+    yaxis_title="Spply Ratio (Rides Completed per Driver Active per Hour)")
+fig.show()
+
+#The below graph shows the ratio of the number of drivers active per hour and the number of rides completed in an hour. 
+
+![image](https://user-images.githubusercontent.com/95108103/230731875-272b7c97-cbd9-49dc-ae3c-1bb8e560fb69.png)
+
+
 
 
 
