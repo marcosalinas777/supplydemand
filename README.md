@@ -84,6 +84,8 @@ fig.show()
 
 ![image](https://user-images.githubusercontent.com/95108103/230731875-272b7c97-cbd9-49dc-ae3c-1bb8e560fb69.png)
 
+ This demand supply analysis helps businesses understand the factors influencing consumer demand to maximize profits.  
+
 
 
 
